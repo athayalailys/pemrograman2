@@ -2,7 +2,7 @@ package praktikum1;
 
 import java.util.Scanner;
 
-public class PRAK102_2310817220008_AthayaLailySyafitri {
+public class Soal2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
